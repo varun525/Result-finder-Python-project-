@@ -1,8 +1,10 @@
 import smtplib
 email=input("enter your email:")
-sender_email="jhakvarun1999@gmail.com"
+# enter your mail here below
+sender_email=""
 reciever_email=email
-password="Varun1999"
+# enter your password here 
+password=""
 list3=[]
 list4=[]
 list2=["a","e","i","o","u"]
